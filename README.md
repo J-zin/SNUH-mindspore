@@ -2,6 +2,8 @@
 
 The [Mindspore](https://www.mindspore.cn/) implementation of "[Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval](https://arxiv.org/pdf/2105.13066.pdf)" (ACL 2021).
 
+The PyTorch implementation is available in [this repo](https://github.com/J-zin/SNUH).
+
 ### Dependencies
 
 - Ubuntu-x86
