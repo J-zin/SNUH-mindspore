@@ -23,7 +23,7 @@ The detailed running commands refer to `run.sh`.
 |         | 16bits | 32bits | 64bits | 128bits |
 | :-----: | :----: | :----: | :----: | :-----: |
 | Reuters | 80.70  | 83.08  | 84.77  |  85.48  |
-|   TMC   |        |        |        |         |
+|   TMC   |        | 74.54  |        |  76.64  |
 |  NG20   | 54.75  | 63.75  | 64.83  |  67.55  |
 
 ### Cite
